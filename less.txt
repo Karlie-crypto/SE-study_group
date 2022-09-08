@@ -1,0 +1,1 @@
+The flie is used to view text files
